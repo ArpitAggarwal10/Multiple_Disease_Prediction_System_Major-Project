@@ -5,13 +5,13 @@
 * Dataset parkinsons.csv 👉🏻 https://www.kaggle.com/datasets/thecansin/parkinsons-data-set/data
 
 ---
-[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_Major-Project.git)
+[![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project)
 
 <!-- PROJECT LOGO -->
 
 <br />
 <p align="center">
-<a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_Major-Project.git">
+<a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project">
   <img src="images/logo.jpg" alt="Logo" width="1000">
 </a>
 
@@ -90,7 +90,7 @@ Create a virtualenv. (optional)
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_Major-Project.git
+   git clone https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project.git
    ```
 2. Install required libraries
    ```sh
@@ -118,9 +118,9 @@ _For more examples, please refer to the [Documentation](#)_
                                                                 — Isaac Newton
 ---
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_Major-Project.git)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project)
 
 <p align="center">
-<a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_Major-Project.git">
+<a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project">
    <img src="images/modelview.png" width="1000">
 </a>
