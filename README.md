@@ -63,10 +63,10 @@ Overall, the system's overarching goal is to contribute to preventive healthcare
 │   └── heart.csv
 │   └── parkinsons.csv
 ├── images
-│   └── Diabetes Result.png
-│   └── Heart Result.png
+│   └── Diabetes_Result.png
+│   └── Heart_Result.png
 │   └── logo.jpg
-│   └── Parkinsons Disease.png
+│   └── Parkinsons_Disease.png
 ├── saved_models
 │   └── diabetes_model.sav
 │   └── heart_disease_model.sav
@@ -112,21 +112,21 @@ _For more examples, please refer to the [Documentation](#)_
 
 <p align="center">
 <a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project">
-   <img src="images/Diabetes Result.png" width="1000">
+   <img src="images/Diabetes_Result.png" width="1000">
 </a>
 
 ## Heart Disease Prediction Result
 
 <p align="center">
 <a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project">
-   <img src="images/Heart Result.png" width="1000">
+   <img src="images/Heart_Result.png" width="1000">
 </a>
 
 ## Parkinsons Disease Prediction Result
 
 <p align="center">
 <a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project">
-   <img src="images/Parkinsons Disease.png" width="1000">
+   <img src="images/Parkinsons_Disease.png" width="1000">
 </a>
 
 ## About Contribution
