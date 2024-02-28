@@ -109,21 +109,21 @@ Now run the app.py file by typing following command
 _For more examples, please refer to the [Documentation](#)_
 
 ## Diabetes Prediction Result
----
+
 <p align="center">
 <a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project">
    <img src="images/Diabetes Result.png" width="1000">
 </a>
 
 ## Heart Disease Prediction Result
----
+
 <p align="center">
 <a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project">
    <img src="images/Heart Result.png" width="1000">
 </a>
 
 ## Parkinsons Disease Prediction Result
----
+
 <p align="center">
 <a href="https://github.com/ArpitAggarwal10/Multiple_Disease_Prediction_System_Major-Project">
    <img src="images/Parkinsons Disease.png" width="1000">
